@@ -1,7 +1,7 @@
 <%-- Pro$1  --%>
 
 <meta property="og:title" content="Fakir Mr. Chef Quadro Blender Set Cream" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Kitchen" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO68390322-201151753.jpg" />
 <meta property="og:price:amount" content="94.10">
 <meta property="og:price:currency" content="GBP">
@@ -15,19 +15,15 @@
 <%-- Pro$2  --%>
 
 <meta property="og:title" content="Happiness İstanbul Women Orange Draped Knitted Mini Skirt" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Woman Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO233984541-194213326Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-28%20150945.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO233984541-965281218Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-28%20151026.jpg" />
 <meta property="og:price:amount" content="40">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-60% Polyester 40% Viscose
-
+<meta property="og:description" content="60% Polyester 40% Viscose
 Mini Knitted Skirt with Draped, Concealed Side Zip, Non-Sealing.
-
 In Studio Shooting, Colors May Vary Due to Differences in Light.
-
 Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm">
 <meta property="product:retailer_item_id" content="PRO233984541">
 <meta property="product:condition" content="new">
@@ -37,7 +33,7 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm">
 <%-- Pro$3  --%>
 
 <meta property="og:title" content="KnitPet Cat and Dog Small Breed 100% Handmade Bed - Special Edition" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Pet Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO386530362-9834909191.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO386530362-2607331083.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO386530362-970052712.jpg" />
@@ -53,13 +49,17 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm">
 <%-- Pro$4  --%>
 
 <meta property="og:title" content="Radius Hood Y Headboard 150X120 " />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO399756934-649614909resim_2022-01-04_113751.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO399756934-507966290Opera%20Anl%c4%b1k%20G%c3%b6r%c3%bcnt%c3%bc_2022-01-04_113743_www.vivense.com.png" />
 <meta property="og:price:amount" content="212.31">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="The head part of the product is made of first-class chipboard material, and the mosaic part is made of first-class chestnut wood.The headboards, which are produced from nature-friendly and first-class materials, are also a decoration element that provides dynamism and aesthetics to your living spaces.The natural wooden mosaics on the bedside are completely handcrafted and applied one by one.It should be dry cleaned with dust removal tassel.It should not be cleaned with a wet material.">
+<meta property="og:description" content="The head part of the product is made of first-class chipboard material, and the mosaic part is made of first-class chestnut wood.
+The headboards, which are produced from nature-friendly and first-class materials, are also a decoration element that provides dynamism and aesthetics to your living spaces.
+The natural wooden mosaics on the bedside are completely handcrafted and applied one by one.
+It should be dry cleaned with dust removal tassel.
+It should not be cleaned with a wet material.">
 <meta property="product:retailer_item_id" content="PRO399756934">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Radius ">
@@ -68,7 +68,7 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm">
 <%-- Pro$5  --%>
 
 <meta property="og:title" content="Smile - Monre Men's T-shirt - Navy Blue" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO923478817-510943959MORNE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20LAC%c4%b0VERT.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO923478817-794609529MORNE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20LAC%c4%b0VERT2.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO923478817-395531472MORNE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20LAC%c4%b0VERT3.jpg" />
@@ -85,7 +85,7 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm">
 <%-- Pro$6  --%>
 
 <meta property="og:title" content="Korkmaz Vertex Duo Red Blender Set	" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Kitchen" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO92535734-426948102.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO92535734-706192643.png" />
 <meta property="og:price:amount" content="65.05">
@@ -100,7 +100,7 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm">
 <%-- Pro$7  --%>
 
 <meta property="og:title" content="Klotz Handmade Coffe Table Solid Basswood" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO336128088-954406959.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO336128088-510713124.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO336128088-58388995.jpg" />
@@ -116,7 +116,7 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm">
 <%-- Pro$8  --%>
 
 <meta property="og:title" content="Polaris Pink Girl Backpack" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="School" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO881936836-1092661281.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO881936836-9862089222.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO881936836-6645867183.jpg" />
@@ -133,7 +133,7 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm">
 <%-- Pro$9  --%>
 
 <meta property="og:title" content="Sarev Capri Beach Towel 90x160 Blue" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Beach" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO17022108-840524572.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO17022108-4888391.jpg" />
 <meta property="og:price:amount" content="14.67">
@@ -148,7 +148,7 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm">
 <%-- Pro$10  --%>
 
 <meta property="og:title" content="Anais & Margaux Francoise Black High Waist Bikini " />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO106435176-826706876.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO106435176-566132032.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO106435176-246692744.png" />
@@ -164,7 +164,7 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm">
 <%-- Pro$11  --%>
 
 <meta property="og:title" content="Adore Concept Locked Drawer Desk" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO798142839-588013908.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO798142839-90783952.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO798142839-764819002.png" />
@@ -191,7 +191,7 @@ Color: Diamond white
 <%-- Pro$12  --%>
 
 <meta property="og:title" content="Mollia Checkered Muslin Blanket" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO58561698-462335895.webp" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO58561698-104728208.webp" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO58561698-266243863.webp" />
@@ -200,17 +200,11 @@ Color: Diamond white
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
 <meta property="og:description" content="Product Group: Baby Blanket
-
 Size: 100x120
-
 Fabric: 100% Cotton
-
 Gender: Unisex
-
 Pattern: Printed
-
 It can be used with many functions such as swaddle, blanket, stroller cover, nursing cover, shoulder cloth, changing.
-
 It is recommended to wash at 30 degrees.">
 <meta property="product:retailer_item_id" content="PRO58561698">
 <meta property="product:condition" content="new">
@@ -220,7 +214,7 @@ It is recommended to wash at 30 degrees.">
 <%-- Pro$13  --%>
 
 <meta property="og:title" content="BRAUN Face Facial Epilator and Facial Cleanser" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Skin Care" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO945365255-47436368.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO945365255-146573842.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO945365255-894629291.png" />
@@ -245,7 +239,7 @@ Size: 6 cm / 16 cm / 22 cm">
 <%-- Pro$14  --%>
 
 <meta property="og:title" content="Vatkali Degaje Collar Strap Mini Dress Black" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO477717504-929116286.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO477717504-188572073.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO477717504-208070776.jpg" />
@@ -261,7 +255,7 @@ Size: 6 cm / 16 cm / 22 cm">
 <%-- Pro$15  --%>
 
 <meta property="og:title" content="Guess GUW0638L1 Women's Wristwatch" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO42374-663759986.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO42374-686772428.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO42374-364321217.jpg" />
@@ -302,22 +296,17 @@ Alarm: No">
 <%-- Pro$16  --%>
 
 <meta property="og:title" content="Diamond Class Meldas Women's Sports Jumpsuit with Comfortable Flexible Fabric Shawl Detailed" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO459836843-971720940Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20102519.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO459836843-346800981Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20102540.jpg" />
 <meta property="og:price:amount" content="450">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
 <meta property="og:description" content="Collection: Basic
-
 Fabric Type: Knitted
-
 Pattern: Regular
-
 Material: Lycra
-
 Style: Trend
-
 Color: White">
 <meta property="product:retailer_item_id" content="PRO459836843">
 <meta property="product:condition" content="new">
@@ -327,7 +316,7 @@ Color: White">
 <%-- Pro$17  --%>
 
 <meta property="og:title" content="Smile - Treieste Men's T-Shirt - Gray Melange" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO402656436-620448142TREIESTE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20GR%c4%b0.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO402656436-886641358TREIESTE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20GR%c4%b02.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO402656436-473392918TREIESTE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20GR%c4%b03.jpg" />
@@ -336,15 +325,10 @@ Color: White">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
 <meta property="og:description" content="Smile printed t-shirt is both sporty and comfortable with its gazelle 100% Aegean cotton knitted fabric in a thin and breathing structure. It is indispensable for stylish men's daily wear with its perfect pattern and fine details.
-
 100% Gazeli Aegean cotton
-
 Thin and breathable single jersey fabric
-
 custom fit; neither narrow nor wide, just right on you
-
 Model measurements: Height: 188 cm, Chest: 104 cm, Waist: 88 cm
-
 Product size in the image: M">
 <meta property="product:retailer_item_id" content="PRO402656436">
 <meta property="product:condition" content="new">
@@ -354,7 +338,7 @@ Product size in the image: M">
 <%-- Pro$18  --%>
 
 <meta property="og:title" content="Hoagard Moonlight Metal Macrame Wall Decoration" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO678290063-122601139.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO678290063-270853704.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO678290063-750611306.jpg" />
@@ -370,7 +354,7 @@ Product size in the image: M">
 <%-- Pro$19  --%>
 
 <meta property="og:title" content="Chakra Pisa Bergere Natural/Ecru" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home & Garden" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO72460799-169245232.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO72460799-567337715.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO72460799-296624.jpg" />
@@ -397,7 +381,7 @@ Product Contents IROKO MASSIVE AND WATERPROOF FABRIC">
 <%-- Pro$20  --%>
 
 <meta property="og:title" content="Smile - Cusco Men's Bermuda Shorts - Green" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO956312021-429138485image_2022-05-27_231543129.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO956312021-26836738image_2022-05-27_231556153.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO956312021-934224926image_2022-05-27_231602580.png" />
@@ -418,17 +402,14 @@ Product size in the image: 48">
 <%-- Pro$21  --%>
 
 <meta property="og:title" content="Gizem Karamulla Accessory Pearl Detail Earrings" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO674928281-6058126711_org_zoom.jpg" />
 <meta property="og:price:amount" content="30">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
 <meta property="og:description" content="Gizem Karamulla Accessory
-
 Material: Ocean Pearl
-
 Size: 4cm
-
 Silver color">
 <meta property="product:retailer_item_id" content="PRO674928281">
 <meta property="product:condition" content="new">
@@ -438,7 +419,7 @@ Silver color">
 <%-- Pro$22  --%>
 
 <meta property="og:title" content="DJI Mavic Air 2 Fly More Combo Drone" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Drones" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-157982290resim_2022-01-24_131410.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-870185739resim_2022-01-24_131416.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-185415762resim_2022-01-24_131424.png" />
@@ -450,7 +431,14 @@ Silver color">
 <meta property="og:price:amount" content="1,152.20">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="48MP Photo and 4K/60fps Video34 Minutes Max Flight Time10km 1080p Video Stream (10KM America - 6KM Turkey)HDRFocusTrack8K HyperlapseSupports up to 256GB Micro SD cardThe Mavic Air 2 Fly More Combo takes power and portability to the next level by offering advanced features in a compact form factor. Intelligent shooting functions and excellent image quality keep aerial masterpieces at hand. Safer, smarter flight allows you to improve your game while enjoying the creative process.Ultra Clear Details1/2 inch Image Sensor4K / 60fps Video48MP PhotoEnhanced HDRPhotographVideoPanoramaCinematic Content8K HyperlapseQuickShotsLonger Tip34 Minutes Max Flight Time240 Minutes Max RC Battery LifeFly Smarter and SaferAPAS 3.0 Obstacle AvoidanceFly Farther, See CleanerOcuSync 2.0 10km 1080p / 30fps Video Transmission (Turkey 6 KM)4K / 60fps:Master creative aerial shots with effortlessly smooth 4K/60fps video. The D-Cinelike solid color profile holds more information for post processing. The HEVC (H.265) video codec records more image information, uses less storage space, and maintains the dynamic range and detail of your footage, providing next-level content.HDR Video Dynamic by Default:The secret to incredible HDR video is a high-performance Quad Bayer image sensor. A single frame separates exposure levels in different areas, accurately capturing light and dark details. Images are layered to create a colourful, balanced and eye-catching picture with higher dynamic range.48MP Photos Full Details:With a 1/2 inch CMOS sensor, the Mavic Air 2 takes impressive 48MP photos. Get ready to take your antenna content to the next level.The 48MP camera supports a high megapixel count allowing vivid details even when you zoom in on the image.SmartPhoto Optimized Capture:The DJI Mavic Air 2 Fly More Combo features SmartPhoto, which integrates scene recognition, HyperLight and HDR into one mode for optimum results. Scene recognition optimizes different camera parameters for various scenes and supports intelligent recognition of five categories: sunset, sky, grass, snow and trees. [one]HDR Panorama See the whole picture:Mavic Air 2 offers DJI's most advanced panorama mode, with more dynamic range and vibrant and incredibly accurate colors.Smart FeaturesShoot Cinematic:The DJI Mavic Air 2 Fly More Combo combines a powerful camera with smart shooting modes for stunning results. Creative aerial photography has never been easierMaster the Sky:Professional quality footage is effortless thanks to FocusTrack. This easy-to-use smart tracking mode suite includes Active Track 3.0, Spotlight 2.0 and Point of Interest 3.0 and lets you unleash your creativity.Time and Motion:Mavic Air 2 supports Hyperlapse in 8K, allowing you to resolve time and space for particularly stunning shots. Best of all, you can get this shot without complicated post-processing. Choose from Free, Circle, Course Lock and Waypoint modes, choose the shooting location, the DJI Fly app does the restImagination Simplified:Automatically capture cinematic video clips with QuickShots. With just a few taps, the Mavic Air 2 plans and flies a complex air course for a pro-quality shot. Add music, effects and filters with super intuitive Story templates so you can share your masterpiece directly on social media.">
+<meta property="og:description" content="48MP Photo and 4K/60fps Video
+34 Minutes Max Flight Time
+10km 1080p Video Stream (10KM America - 6KM Turkey)
+HDRFocusTrack8K Hyperlapse
+Supports up to 256GB Micro SD card
+The Mavic Air 2 Fly More Combo takes power and portability to the next level by offering advanced features in a compact form factor. Intelligent shooting functions and excellent image quality keep aerial masterpieces at hand. Safer, smarter flight allows you to improve your game while enjoying the creative process.
+Ultra Clear Details
+1/2 inch Image Sensor">
 <meta property="product:retailer_item_id" content="PRO868758575">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="DJI ">
@@ -459,7 +447,7 @@ Silver color">
 <%-- Pro$23  --%>
 
 <meta property="og:title" content="Rondje Gold Metal Round Mirror 60 CM " />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home & Garden" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO691481357-459960857.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO691481357-799188897.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO691481357-532166674.jpg" />
@@ -476,7 +464,7 @@ Silver color">
 <%-- Pro$24  --%>
 
 <meta property="og:title" content="Korkmaz Freedom Thermos Stainless Steel 850 ml Red" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Travel" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO51078054-518019788.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO51078054-344650149.png" />
 <meta property="og:price:amount" content="55.27">
@@ -499,7 +487,7 @@ Thanks to its double-layer body structure, it preserves its flavor and freshness
 <%-- Pro$25  --%>
 
 <meta property="og:title" content="Korkmaz Performix Rosagold Blender" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Kitchen" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO55987637-475217392.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO55987637-468691730.png" />
 <meta property="og:price:amount" content="69.29">
@@ -514,7 +502,7 @@ Thanks to its double-layer body structure, it preserves its flavor and freshness
 <%-- Pro$26  --%>
 
 <meta property="og:title" content="Foqlio Mensa Dining Table" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home & Garden" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO438239754-818823769.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO438239754-308330722.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO438239754-120578936.jpg" />
@@ -540,7 +528,7 @@ Delivery The product is specially produced. Delivery time is an average of 25 wo
 <%-- Pro$27  --%>
 
 <meta property="og:title" content="EWP Orange Bomb Women Outfit Set" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Set" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO27959450-166541976orange%20bomb.png" />
 <meta property="og:price:amount" content="343">
 <meta property="og:price:currency" content="GBP">
@@ -554,22 +542,17 @@ Delivery The product is specially produced. Delivery time is an average of 25 wo
 <%-- Pro$28  --%>
 
 <meta property="og:title" content="Sole Sisters Womens Black Heeled Shoes - Clerimonds" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO924449340-741524060Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20100011.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO924449340-562614334Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20100031.jpg" />
 <meta property="og:price:amount" content="256">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
 <meta property="og:description" content="Gender : Female
-
 Heel Length: 7,5 cm
-
 Inner Material: Textile
-
 Outer Material: Artificial Leather
-
 Heel Type : High
-
 Sole : Rubber">
 <meta property="product:retailer_item_id" content="PRO924449340">
 <meta property="product:condition" content="new">
@@ -579,7 +562,7 @@ Sole : Rubber">
 <%-- Pro$29  --%>
 
 <meta property="og:title" content="Guess GUW0989L2 Women's Wristwatch" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO73886447-105483811.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO73886447-77354814.jpg" />
 <meta property="og:price:amount" content="180.22">
@@ -621,904 +604,42 @@ Alarm: No">
 <%-- Pro$30  --%>
 
 <meta property="og:title" content="Bagcimstore Women's Logo Baguette Bag Brown" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO101490315-556826367Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20100414.jpg" />
 <meta property="og:price:amount" content="80">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
 <meta property="og:description" content="Width 24cm.
-
 Height 14cm.
-
 Depth 6cm.
-
 Length of baggage hangers 44cm.
-
 Long column hanger short form: 83cm - Long form: 130cm.
-
 Inside lining is black and it has an inner eye.
-
 The letters on it are embroidered.
-
 Accessories gold color.">
 <meta property="product:retailer_item_id" content="PRO101490315">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Bagcimstore ">
 
 
-<%-- Pro$31  --%>
-
-<meta property="og:title" content="Korkmaz Performix Rosagold Blender" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO55987637-475217392.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO55987637-468691730.png" />
-<meta property="og:price:amount" content="69.29">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="1000 WattsHeat resistant stainless steel grinder barTrigger speed settingEase of washingGrinding functionsSeparation feature of body and grinder barLocking feature with latch system4 BladesPerformix, with its trigger speed adjustment and heat-resistant stainless steel grinding bar, will be your greatest assistant in shredding and grinding while preparing food in the kitchen.">
-<meta property="product:retailer_item_id" content="PRO55987637">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Korkmaz ">
-
-
-<%-- Pro$32  --%>
-
-<meta property="og:title" content="Korkmaz Freedom Thermos Stainless Steel 850 ml Red" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO51078054-518019788.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO51078054-344650149.png" />
-<meta property="og:price:amount" content="55.27">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														850 ml. fluid capacityHeight: 29.5 cmdouble wallStainless steel bodyEasy to clean thanks to its wide mouthAttractive modern cylindrical designUnbreakable steel layer offers excellent heat retentionYour hot drinks stay hot for hours or your cold drinks stay cold for hours.Freedom Maxi Thermos; Thanks to its double-layer body structure, it preserves its flavor and freshness by keeping all your hot or cold drinks for a long time.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO51078054">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Korkmaz ">
-
-
-<%-- Pro$33  --%>
-
-<meta property="og:title" content="Rondje Gold Metal Round Mirror 60 CM " />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO691481357-459960857.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO691481357-799188897.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO691481357-532166674.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO691481357-780887535.jpg" />
-<meta property="og:price:amount" content="218.68">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														RONDJE Metal Round Mirror leaves elegant reflections on the walls with its circular form and thin metal-looking frame. With its 60 cm diameter mirror, it adds dimension and light to the areas. It completes the composition when used on furniture such as buffet, dresser, bathroom cabinet. RONDJE Mirrors can be used alone or in combination with other products of the series; With its thin frame, it adds a noble and elegant look to the place where it is located.PRODUCT SIZE: Diameter: 60 cmOur product dimensions are standard.MATERIAL: MDF Board, GlassCOLOR: GoldASSEMBLY: No assembly required. You can easily hang the product on the wall with the hanging bracket provided.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO691481357">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Rondje">
-
-
-<%-- Pro$34  --%>
-
-<meta property="og:title" content="DJI Mavic Air 2 Fly More Combo Drone" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-157982290resim_2022-01-24_131410.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-870185739resim_2022-01-24_131416.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-185415762resim_2022-01-24_131424.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-375272181resim_2022-01-24_131431.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-251095917resim_2022-01-24_131437.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-848794170resim_2022-01-24_131445.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-700541605resim_2022-01-24_131452.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO868758575-876227642resim_2022-01-24_131459.png" />
-<meta property="og:price:amount" content="1,152.20">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														48MP Photo and 4K/60fps Video34 Minutes Max Flight Time10km 1080p Video Stream (10KM America - 6KM Turkey)HDRFocusTrack8K HyperlapseSupports up to 256GB Micro SD cardThe Mavic Air 2 Fly More Combo takes power and portability to the next level by offering advanced features in a compact form factor. Intelligent shooting functions and excellent image quality keep aerial masterpieces at hand. Safer, smarter flight allows you to improve your game while enjoying the creative process.Ultra Clear Details1/2 inch Image Sensor4K / 60fps Video48MP PhotoEnhanced HDRPhotographVideoPanoramaCinematic Content8K HyperlapseQuickShotsLonger Tip34 Minutes Max Flight Time240 Minutes Max RC Battery LifeFly Smarter and SaferAPAS 3.0 Obstacle AvoidanceFly Farther, See CleanerOcuSync 2.0 10km 1080p / 30fps Video Transmission (Turkey 6 KM)4K / 60fps:Master creative aerial shots with effortlessly smooth 4K/60fps video. The D-Cinelike solid color profile holds more information for post processing. The HEVC (H.265) video codec records more image information, uses less storage space, and maintains the dynamic range and detail of your footage, providing next-level content.HDR Video Dynamic by Default:The secret to incredible HDR video is a high-performance Quad Bayer image sensor. A single frame separates exposure levels in different areas, accurately capturing light and dark details. Images are layered to create a colourful, balanced and eye-catching picture with higher dynamic range.48MP Photos Full Details:With a 1/2 inch CMOS sensor, the Mavic Air 2 takes impressive 48MP photos. Get ready to take your antenna content to the next level.The 48MP camera supports a high megapixel count allowing vivid details even when you zoom in on the image.SmartPhoto Optimized Capture:The DJI Mavic Air 2 Fly More Combo features SmartPhoto, which integrates scene recognition, HyperLight and HDR into one mode for optimum results. Scene recognition optimizes different camera parameters for various scenes and supports intelligent recognition of five categories: sunset, sky, grass, snow and trees. [one]HDR Panorama See the whole picture:Mavic Air 2 offers DJI's most advanced panorama mode, with more dynamic range and vibrant and incredibly accurate colors.Smart FeaturesShoot Cinematic:The DJI Mavic Air 2 Fly More Combo combines a powerful camera with smart shooting modes for stunning results. Creative aerial photography has never been easierMaster the Sky:Professional quality footage is effortless thanks to FocusTrack. This easy-to-use smart tracking mode suite includes Active Track 3.0, Spotlight 2.0 and Point of Interest 3.0 and lets you unleash your creativity.Time and Motion:Mavic Air 2 supports Hyperlapse in 8K, allowing you to resolve time and space for particularly stunning shots. Best of all, you can get this shot without complicated post-processing. Choose from Free, Circle, Course Lock and Waypoint modes, choose the shooting location, the DJI Fly app does the restImagination Simplified:Automatically capture cinematic video clips with QuickShots. With just a few taps, the Mavic Air 2 plans and flies a complex air course for a pro-quality shot. Add music, effects and filters with super intuitive Story templates so you can share your masterpiece directly on social media.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO868758575">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="DJI ">
-
-
-<%-- Pro$35  --%>
-
-<meta property="og:title" content="Gizem Karamulla Accessory Pearl Detail Earrings" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO674928281-6058126711_org_zoom.jpg" />
-<meta property="og:price:amount" content="30">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														
-
-
-
-Gizem Karamulla Accessory
-
-Material: Ocean Pearl
-
-Size: 4cm
-
-Silver color
-
- 
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO674928281">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Gizem Karamulla Accessory">
-
-
-<%-- Pro$36  --%>
-
-<meta property="og:title" content="Smile - Cusco Men's Bermuda Shorts - Green" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO956312021-429138485image_2022-05-27_231543129.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO956312021-26836738image_2022-05-27_231556153.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO956312021-934224926image_2022-05-27_231602580.png" />
-<meta property="og:price:amount" content="140.00">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Bermuda shorts, the symbol of summer, offer a comfortable and sweat-proof clothing in Cusco model with its special breathable fabric woven from the highest quality Aegean cotton together with elastane. It has a small coin pocket detail on the front and two buttoned pockets on the back. A timeless bermuda shorts that you can combine with any color and variety of t-shirts and shirts throughout the summer with its perfect fit and ideal knee length.98% Cotton 2% ElastaneSide pocket modelBack flap pocketsModel measurements: Height: 188 cm, Chest: 104 cm, Waist: 88 cmProduct size in the image: 48
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO956312021">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Smile ">
-
-
-<%-- Pro$37  --%>
-
-<meta property="og:title" content="Chakra Pisa Bergere Natural/Ecru" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO72460799-169245232.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO72460799-567337715.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO72460799-296624.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO72460799-792060559.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO72460799-99645863.jpg" />
-<meta property="og:price:amount" content="370.14">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														It is suitable for outdoor use.It is ready in the package. No assembly required.Box content: 1 Piece Single BergereProduct featuresMaterial: Iroko Wood and Waterproof FabricDepth: 70 cmWidth: 81cmHeight: 87cmSize70*81*87Product Contents IROKO MASSIVE AND WATERPROOF FABRIC
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO72460799">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Chakra">
-
-
-<%-- Pro$38  --%>
-
-<meta property="og:title" content="Hoagard Moonlight Metal Macrame Wall Decoration" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO678290063-122601139.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO678290063-270853704.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO678290063-750611306.jpg" />
-<meta property="og:price:amount" content="54.01">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														HandmadeModern & Industrial StyleGold Color Paint2mm metal materialcotton macrame threadProduct dimensions (Width x Length): 45cm x 100cmSince the product is completely handmade, there may be slight differences from the product in the image.You can easily hang the product on the wall with the help of nails and hammer.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO678290063">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Hoagard">
-
-
-<%-- Pro$39  --%>
-
-<meta property="og:title" content="Smile - Treieste Men's T-Shirt - Gray Melange" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO402656436-620448142TREIESTE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20GR%c4%b0.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO402656436-886641358TREIESTE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20GR%c4%b02.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO402656436-473392918TREIESTE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20GR%c4%b03.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO402656436-858434077TREIESTE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20GR%c4%b04.jpg" />
-<meta property="og:price:amount" content="101.54">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Smile printed t-shirt is both sporty and comfortable with its gazelle 100% Aegean cotton knitted fabric in a thin and breathing structure. It is indispensable for stylish men's daily wear with its perfect pattern and fine details.
-
-
-
-
-
-100% Gazeli Aegean cotton
-
-
-
-Thin and breathable single jersey fabric
-
-
-
-custom fit; neither narrow nor wide, just right on you
-
-
-
-Model measurements: Height: 188 cm, Chest: 104 cm, Waist: 88 cm
-
-
-
-Product size in the image: M
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO402656436">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="SMILE">
-
-
-<%-- Pro$40  --%>
-
-<meta property="og:title" content="Diamond Class Meldas Women's Sports Jumpsuit with Comfortable Flexible Fabric Shawl Detailed" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO459836843-971720940Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20102519.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO459836843-346800981Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20102540.jpg" />
-<meta property="og:price:amount" content="450">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														
-
-
-
-Collection: Basic
-
-
-
-Fabric Type: Knitted
-
-
-
-Pattern: Regular
-
-
-
-Material: Lycra
-
-
-
-Style: Trend
-
-
-
-Color: White
-
- 
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO459836843">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Diamond Class">
-
-
-<%-- Pro$41  --%>
-
-<meta property="og:title" content="Guess GUW0638L1 Women's Wristwatch" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO42374-663759986.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO42374-686772428.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO42374-364321217.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO42374-367834956.jpg" />
-<meta property="og:price:amount" content="200.77">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														PRODUCT INFORMATIONGender: FemaleBrand: GuessModel: SohoTechnology: QuartzWarranty: 2 YearsCASE STRUCTURECase Diameter: 36 mmCase Thickness: 9 mmCase Shape: RoundCase Material: SteelCase Stone: YesGlass Attribute: MineralStyle: Classic WatchesCase Color: Metallic Graysize guideDIAL STRUCTUREDial Type: AnalogueDial Color: Silver ToneDial Stone: NoneBELT STRUCTUREStrap Type: StrawColor: Metallic GrayFEATURESWaterproof: 3 ATMStopwatch: NoCalendar: NoAlarm: No
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO42374">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Guess">
-
-
-<%-- Pro$42  --%>
-
-<meta property="og:title" content="Vatkali Degaje Collar Strap Mini Dress Black" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO477717504-929116286.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO477717504-188572073.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO477717504-208070776.jpg" />
-<meta property="og:price:amount" content="44.19">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														VatkaliDegaje Collar Strap Mini Dress Black
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO477717504">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Vatkali ">
-
-
-<%-- Pro$43  --%>
-
-<meta property="og:title" content="BRAUN Face Facial Epilator and Facial Cleanser" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO945365255-47436368.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO945365255-146573842.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO945365255-894629291.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO945365255-269709332.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO945365255-79852914.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO945365255-674037427.png" />
-<meta property="og:price:amount" content="80.50">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Product Type: EpilatorProduct Features: Hair removal head with 10 tweezers, Soft facial cleansing head, Facial cleansing headWith 10.000 bristles, it can clean 6 times better than manual cleaning.Battery Type: AABattery Operating type: BatteryBox Contents: Braun face epilator, Cleansing brush head, Cover, Small cleaning brush, BatteryPacking Size: 6 cm / 16 cm / 22 cm
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO945365255">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="BRAUN ">
-
-
-<%-- Pro$44  --%>
-
-<meta property="og:title" content="Mollia Checkered Muslin Blanket" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO58561698-462335895.webp" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO58561698-104728208.webp" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO58561698-266243863.webp" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO58561698-211800451.webp" />
-<meta property="og:price:amount" content="16.30">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Product Group: Baby Blanket
-
-Size: 100x120
-
-Fabric: 100% Cotton
-
-Gender: Unisex
-
-Pattern: Printed
-
-It can be used with many functions such as swaddle, blanket, stroller cover, nursing cover, shoulder cloth, changing.
-
-It is recommended to wash at 30 degrees.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO58561698">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Molly">
-
-
-<%-- Pro$45  --%>
-
-<meta property="og:title" content="Adore Concept Locked Drawer Desk" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO798142839-588013908.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO798142839-90783952.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO798142839-764819002.png" />
-<meta property="og:price:amount" content="80.77">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														•Width: 120 cm•Height: 75 cm• Depth: 60 cmColor: Diamond white• It is suitable for both home and office use with its wide and useful working area.It has 1 locked drawer• Chrome plated metal handle is used in the drawer.• Produced using high quality melamine surface chipboard and first class imported fittings.• It is produced from E1 certified raw materials that do not contain carcinogenic substances and comply with European Union health norms.• The product is delivered disassembled.• All necessary materials for installation are available in the product box.• In addition, only a screwdriver may be required.• Parts are numbered for easy and error-free installation. You can easily install it by following the installation guide.• Accessories are not included in the price.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO798142839">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Adore">
-
-
-<%-- Pro$46  --%>
-
-<meta property="og:title" content="Anais & Margaux Francoise Black High Waist Bikini " />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO106435176-826706876.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO106435176-566132032.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO106435176-246692744.png" />
-<meta property="og:price:amount" content="131.92">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														93% Polyamide, 7% ElastaneSquare neckline, ribbed, high waisted, belted bikini
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO106435176">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Anais & Margaux">
-
-
-<%-- Pro$47  --%>
-
-<meta property="og:title" content="Sarev Capri Beach Towel 90x160 Blue" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO17022108-840524572.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO17022108-4888391.jpg" />
-<meta property="og:price:amount" content="14.67">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														100% Cotton 90x160 Beach Towel
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO17022108">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Sarev ">
-
-
-<%-- Pro$48  --%>
-
-<meta property="og:title" content="Polaris Pink Girl Backpack" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO881936836-1092661281.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO881936836-9862089222.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO881936836-6645867183.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO881936836-5622255564.jpg" />
-<meta property="og:price:amount" content="13.04">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Girls' choice!This cute and stylish bag, in which they can put toys, school supplies, and anything they want, is also very suitable for a child to carry comfortably.Dimension (Width*Length*Depth): 25*15*4 CmStrap Length: 25 CmCarrying Type: BackpackInterior Feature: LinedClosure Type: Zipper
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO881936836">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Polaris ">
-
-
-<%-- Pro$49  --%>
-
-<meta property="og:title" content="Klotz Handmade Coffe Table Solid Basswood" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO336128088-954406959.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO336128088-510713124.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO336128088-58388995.jpg" />
-<meta property="og:price:amount" content="230.00">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														KLOTZ Log Coffee Table equips the organic form and texture of fir wood with a soft gray tone and ethnic patterns. In this way, the interiors gain a comfortable and friendly character, like the fireplace head of a chalet. Proudly carrying its knots, different tones and cracks, KLOTZ Log Coffee Table is mobile thanks to its embedded wheels. Plastic wheels will not damage your floors. Now a side table, a nightstand, a stool; KLOTZ log tables can be used in any function that your imagination can derive.HANDMADE: Handmade, carefully prepared for you in master hands.USE IDEAS: Coffee table, Stool, Nightstand, FlowerpotPRODUCT SIZE: W:40 cm / D:40 cm / H:45 cmSince each piece is produced from a separate tree trunk, there may be a difference in the diameter of the product.MATERIAL: Solid BasswoodSince solid wood is used, color tones, veining and edge finishes differ.COLOR: PatternedASSEMBLY: No assembly required.USEFUL INFORMATION: It is mobile thanks to the built-in wheels on the bottom surface.CARE INSTRUCTIONS: Wipe clean with a cloth dampened with warm water and then dry.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO336128088">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Klotz">
-
-
-<%-- Pro$50  --%>
-
-<meta property="og:title" content="Korkmaz Vertex Duo Red Blender Set	" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO92535734-426948102.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO92535734-706192643.png" />
-<meta property="og:price:amount" content="65.05">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														850 WattsHeat resistant stainless steel grinder barMeasuring cup with 1000 ml capacityAnti-slip soleTwo-stage speed adjustmentEase of washingGrinding functionsSeparation feature of body and grinder barVertex Duo Blender, with its gradual speed adjustment and heat-resistant plastic grinding bar, will be your biggest assistant in shredding and grinding while preparing food in the kitchen.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO92535734">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Korkmaz ">
-
-
-<%-- Pro$51  --%>
-
-<meta property="og:title" content="Smile - Monre Men's T-shirt - Navy Blue" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO923478817-510943959MORNE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20LAC%c4%b0VERT.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO923478817-794609529MORNE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20LAC%c4%b0VERT2.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO923478817-395531472MORNE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20LAC%c4%b0VERT3.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO923478817-323693988MORNE%20ERKEK%20T%c4%b0%c5%9e%c3%96RT%20-%20LAC%c4%b0VERT4.jpg" />
-<meta property="og:price:amount" content="101.54">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Smile printed t-shirt is both sporty and comfortable with its gazelle 100% Aegean cotton knitted fabric in a thin and breathing structure. It is indispensable for stylish men's daily wear with its perfect pattern and fine details.100% Gazeli Aegean cottonThin and breathable single jersey fabriccustom fit; neither narrow nor wide, just right on youModel dimensions: Height: 188 cm, Bust: 104 cm, Waist: 88 cmProduct size in the image: M
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO923478817">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="SMILE">
-
-
-<%-- Pro$52  --%>
-
-<meta property="og:title" content="Radius Hood Y Headboard 150X120 " />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO399756934-649614909resim_2022-01-04_113751.png" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO399756934-507966290Opera%20Anl%c4%b1k%20G%c3%b6r%c3%bcnt%c3%bc_2022-01-04_113743_www.vivense.com.png" />
-<meta property="og:price:amount" content="212.31">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														The head part of the product is made of first-class chipboard material, and the mosaic part is made of first-class chestnut wood.The headboards, which are produced from nature-friendly and first-class materials, are also a decoration element that provides dynamism and aesthetics to your living spaces.The natural wooden mosaics on the bedside are completely handcrafted and applied one by one.It should be dry cleaned with dust removal tassel.It should not be cleaned with a wet material.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO399756934">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Radius ">
-
-
-<%-- Pro$53  --%>
-
-<meta property="og:title" content="KnitPet Cat and Dog Small Breed 100% Handmade Bed - Special Edition" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO386530362-9834909191.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO386530362-2607331083.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO386530362-970052712.jpg" />
-<meta property="og:price:amount" content="264.29">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Cat and Dog Small Breed 100% Handmade Bed - Special EditionYour cute friends will love these beds where comfort and elegance come together!These mattresses, which are 100% handmade and knitted, are anti-allergic and organic.It is a personalized production, after you place your order, the product is prepared exclusively for you.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO386530362">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="KnitPet">
-
-
-<%-- Pro$54  --%>
-
-<meta property="og:title" content="Happiness İstanbul Women Orange Draped Knitted Mini Skirt" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO233984541-194213326Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-28%20150945.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO233984541-965281218Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-28%20151026.jpg" />
-<meta property="og:price:amount" content="40">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-
-
-
-
-
-
-60% Polyester 40% Viscose
-
-
-
-Mini Knitted Skirt with Draped, Concealed Side Zip, Non-Sealing.
-
-
-
-In Studio Shooting, Colors May Vary Due to Differences in Light.
-
-
-
-Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm
-
-
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO233984541">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Happiness İstanbul">
-
-
-<%-- Pro$55  --%>
-
-<meta property="og:title" content="Fakir Mr. Chef Quadro Blender Set Cream" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO68390322-201151753.jpg" />
-<meta property="og:price:amount" content="94.10">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Your Personal Kitchen Assistant: Fakir Mr. Chef Quadro Blender Set Fakir Mr. The Chef Quadro Blender Set stands out with its superior craftsmanship, comprehensive capabilities and well thought-out design. Fakir Chef Quadro Blender is the perfect kitchen assistant for all your meal preparations. Easy to Clean and Easy to Use Fakir Mr. The outstanding features of the Chef Quadro Blender Set are its ergonomic grip and ease of use, such as the non-slip mat that prevents the blender set from slipping off your kitchen counter. Plus, the safe-to-use lock ensures that material doesn't spill during use, so there's no need to clean it up. Improved Performance Poor Mr. Every aspect has been considered in the Chef Quadro Blender Set. Its power is 1000 Watts, ideal for whipping up your favorite dishes. Its high wattage provides excellent performance and a smooth mix, regardless of the components inside. The 1500ml capacity of this blender is large enough to meet the chopping, slicing, grating and whisking needs of most families. It even comes with a handy measuring cup with a capacity of 900 ml to give you a little more flexibility. Blades are one of the most important parts of any blender set and Fakir Mr. The Chef Quadro Blender Set comes with powerful blades that give you perfect chops and cuts every time. Another advantage of strong blades is that they stand the test of time, giving you accurate cuts and cuts even years after purchase. Mr. The Chef Quadro Blender Set blender set is a valuable kitchen investment in this sense. Beautiful Design Adapts to Any Decor When you think of blender sets, design isn't the first thing that comes to mind. However, Fakir Mr. The Chef Quadro Blender Set surprises you with its vibrant colors and aerodynamic design that adapts to any kitchen decor. In fact, Mr. The vibrant design of the Chef Quadro Blender Set makes it a central decor spot on your kitchen counter. Generally, Mr. The Chef Quadro Blender Set is packed with features that will invite you to use this blender set again and again. Your Personal Kitchen Assistant: Fakir Mr. Chef Quadro Blender Set Fakir Mr. The Chef Quadro Blender Set stands out with its superior craftsmanship, comprehensive capabilities and well thought-out design. Fakir The Chef Quadro Blender is the perfect kitchen assistant for all your meal preparations. Easy Cleaning and Easy Use Fakir Mr. The outstanding features of the Chef Quadro Blender Set are its ergonomic grip and ease of use, such as the non-slip mat that prevents the blender set from slipping off your kitchen counter. Plus, the safe-to-use lock ensures that material doesn't spill during use, so there's no need to clean it up. Improved Performance Poor Mr. Every aspect has been considered in the Chef Quadro Blender Set. Its power is 1000 Watts, ideal for whipping up your favorite dishes. Its high wattage provides excellent performance and a smooth mix, regardless of the components inside. The 1500ml capacity of this blender is large enough to meet the chopping, slicing, grating and whisking needs of most families. It even comes with a handy measuring cup with a capacity of 900 ml to give you a little more flexibility. Blades are one of the most important parts of any blender set and Fakir Mr. The Chef Quadro Blender Set comes with powerful blades that give you perfect chops and cuts every time. Another advantage of strong blades is that they stand the test of time, giving you accurate cuts and cuts even years after purchase. Mr. The Chef Quadro Blender Set blender set is a valuable kitchen investment in this sense. Beautiful Design Adapts to Any Decor When you think of blender sets, design isn't the first thing that comes to mind. However, Fakir Mr. The Chef Quadro Blender Set surprises you with its vibrant colors and aerodynamic design that adapts to any kitchen decor. In fact, Mr. The vibrant design of the Chef Quadro Blender Set makes it a central decor spot on your kitchen counter. Generally, Mr. The Chef Quadro Blender Set is packed with features that will invite you to use this blender set over and over again.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO68390322">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Fakir">
-
-
 <%-- Pro$56  --%>
 
 <meta property="og:title" content="Smile - Waikoloa Men's Sea Shorts" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO465511338-351507958image_2022-05-27_161329757.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO465511338-967797623image_2022-05-27_161342831.png" />
 <meta property="og:price:amount" content="124.51">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														WaikoloaSea Shorts, one of the choices of men who want to reflect their style to the sea, offer you comfort and convenience. Thanks to its fast-drying fabric technology, water-repellent feature and adjustable drawstring waistband, it is a candidate to be indispensable for summer months.Light fabricFast dryingElastic waistband100% PolyesterWater repellent propertyAdjustable drawstringModel size Waist: 88
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="Waikoloa Sea Shorts, one of the choices of men who want to reflect their style to the sea, offer you comfort and convenience. Thanks to its fast-drying fabric technology, water-repellent feature and adjustable drawstring waistband, it is a candidate to be indispensable for summer months.
+Light fabric
+Fast drying
+Elastic waistband
+100% Polyester
+Water repellent property
+Adjustable drawstring
+Model size
+Waist: 88">
 <meta property="product:retailer_item_id" content="PRO465511338">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Smile ">
@@ -1527,7 +648,7 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm
 <%-- Pro$57  --%>
 
 <meta property="og:title" content="Ipekyol Women Slipper" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO860443320-9463357601.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO860443320-3172065372.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO860443320-2802354793.jpg" />
@@ -1535,21 +656,11 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm
 <meta property="og:price:amount" content="81.67">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Country of Manufacture ChinaCOLOR BlueCategory SlippersSeason Code Fw 21/22100% POLIESTER
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="Country of Manufacture China
+COLOR Blue
+Category Slippers
+Season Code Fw 21/22
+100% POLIESTER">
 <meta property="product:retailer_item_id" content="PRO860443320">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Ipekyol">
@@ -1558,27 +669,16 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm
 <%-- Pro$58  --%>
 
 <meta property="og:title" content="Moz Wide Leg Waist Pleated Trousers" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO316668253-216895481bol-paca-beli-pileli-pantolon-q70827-9f-4bc.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO316668253-160057387bol-paca-beli-pileli-pantolon-q70827-ab3e20.jpg" />
 <meta property="og:price:amount" content="140">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														-Palazzo pants-Buttoned-Pocketless-Camel colored
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="-Palazzo pants
+-Buttoned
+-Pocketless
+-Camel colored">
 <meta property="product:retailer_item_id" content="PRO316668253">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Moz ">
@@ -1587,27 +687,15 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm
 <%-- Pro$59  --%>
 
 <meta property="og:title" content="Lupix New Season Unisex Sunglasses" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO616500498-922464929Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20092919.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO616500498-3531857233_org_zoom.jpg" />
 <meta property="og:price:amount" content="22">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														-2 years Guaranteed-It is standard-13+
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="-2 years Guaranteed
+-It is standard
+-13+">
 <meta property="product:retailer_item_id" content="PRO616500498">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Lupix ">
@@ -1616,26 +704,15 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm
 <%-- Pro$60  --%>
 
 <meta property="og:title" content="Polo Assn. Beige Women's Sneaker Maybe 2 Fx Beige" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO849714097-976962511Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20092713.jpg" />
 <meta property="og:price:amount" content="260">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														-Heel Type : Flat-Base : Pylon-Inner Material: Textile-Outer Material: Textile + Artificial Leather
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="-Heel Type : Flat
+-Base : Pylon
+-Inner Material: Textile
+-Outer Material: Textile + Artificial Leather">
 <meta property="product:retailer_item_id" content="PRO849714097">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Polo Assn. ">
@@ -1644,62 +721,19 @@ Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm
 <%-- Pro$61  --%>
 
 <meta property="og:title" content="Trendyolmilla Dark Brown Knitted Body with Snap Fastener" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO177415536-465194030Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-20%20171618.jpg" />
 <meta property="og:price:amount" content="56">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														92% Polyester 8% Elastane, Knitted Fabric
-
-
-
-
-
+<meta property="og:description" content="92% Polyester 8% Elastane, Knitted Fabric
 Pattern: Plain
-
-
-
 Collar Type: Crew Neck
-
-
-
 Color: Brown
-
-
-
 Fabric/Thread Attribute: Diver
-
-
-
 Mold: Fitted
-
-
-
 Thickness: Thin
-
-
-
-Sleeve Length: Zero Sleeve
-
- 
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
+Sleeve Length: Zero Sleeve">
 <meta property="product:retailer_item_id" content="PRO177415536">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Trendyolmilla ">
@@ -1708,26 +742,38 @@ Sleeve Length: Zero Sleeve
 <%-- Pro$62  --%>
 
 <meta property="og:title" content="Escape ESCP200102 Women's Wristwatch" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO3782313-776105117.jpg" />
 <meta property="og:price:amount" content="90.19">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														PRODUCT INFORMATIONGender: FemaleBrand: EscapeTechnology: QuartzWarranty: 2 YearsCASE STRUCTURECase Diameter: 36 mmCase Thickness: 9 mmCase Shape: RoundCase Material: SteelCase Stone: NoneGlass Attribute: MineralStyle: Classic WatchesCase Color: Metallic Graysize guideDIAL STRUCTUREDial Type: AnalogueDial Color: Silver ToneDial Stone: NoneBELT STRUCTUREStrap Type: SteelColor: Metallic GrayFEATURESWaterproof: 3 ATMStopwatch: NoCalendar: NoAlarm: No
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="PRODUCT INFORMATION
+Gender: Female
+Brand: Escape
+Technology: Quartz
+Warranty: 2 Years
+CASE STRUCTURE
+Case Diameter: 36 mm
+Case Thickness: 9 mm
+Case Shape: Round
+Case Material: Steel
+Case Stone: None
+Glass Attribute: Mineral
+Style: Classic Watches
+Case Color: Metallic Gray
+size guide
+DIAL STRUCTURE
+Dial Type: Analogue
+Dial Color: Silver Tone
+Dial Stone: None
+BELT STRUCTURE
+Strap Type: Steel
+Color: Metallic Gray
+FEATURES
+Waterproof: 3 ATM
+Stopwatch: No
+Calendar: No
+Alarm: No">
 <meta property="product:retailer_item_id" content="PRO3782313">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Escape">
@@ -1736,27 +782,16 @@ Sleeve Length: Zero Sleeve
 <%-- Pro$63  --%>
 
 <meta property="og:title" content="Bershka Nylon Look Bag" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO706548032-467134934Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20093435.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO706548032-378732387Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-21%20093500.jpg" />
 <meta property="og:price:amount" content="118">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														-Nylon look bag-75% aluminum - 25% polyester-NO BLEACHING - CANNOT BE DRY CLEANED - CANNOT BE WASHED-Use wet wipes to clean
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="-Nylon look bag
+-75% aluminum - 25% polyester
+-NO BLEACHING - CANNOT BE DRY CLEANED - CANNOT BE WASHED
+-Use wet wipes to clean">
 <meta property="product:retailer_item_id" content="PRO706548032">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Bershka ">
@@ -1765,26 +800,44 @@ Sleeve Length: Zero Sleeve
 <%-- Pro$64  --%>
 
 <meta property="og:title" content="EWP Brown Comfort Outfit Set " />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Set" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO30312440-6197185601_20220616_110049_0000.png" />
 <meta property="og:price:amount" content="410">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														BROWN COMFORTIt is the best look for city lifestyle also a comfortable yet stylish look for your daily tasks.Brown is a very cozy, noble and calm color that will give you a break from bright colors.By replacing your sneakers with heels, you will create a more elegant look with which you can go to work or an important meeting.We chose the bag specifically so that the whole image would be on the verge between casual and official, so that you can easily and quickly change your style to the one that suits you at the moment.Watch: Escape-Steel-Quartz Technology-36 mm Case Diameter-Mineral Glass Feature-3 ATM Waterproof-Case Thickness: 9 mm-2 years warrantyBody: TRENDYOLMILLA-92% Polyester 8% Elastane-Knitted FabricPants: MOZ-Palazzo pants-Buttoned-Pocketless-Camel coloredSneakers: U.S. Polo Assn.-Heel Type : Flat-Base : Pylon-Inner Material: Textile-Outer Material: Textile + Artificial LeatherSunglasses: LUPIX-2 years Guaranteed-It is standard-13+Bag: Bershka-Nylon look bag-75% aluminum - 25% polyester-NO BLEACHING - CANNOT BE DRY CLEANED - CANNOT BE WASHED-Use wet wipes to clean
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="BROWN COMFORT
+It is the best look for city lifestyle also a comfortable yet stylish look for your daily tasks.
+Brown is a very cozy, noble and calm color that will give you a break from bright colors.
+By replacing your sneakers with heels, you will create a more elegant look with which you can go to work or an important meeting.
+We chose the bag specifically so that the whole image would be on the verge between casual and official, so that you can easily and quickly change your style to the one that suits you at the moment.
+Watch: Escape
+-Steel
+-Quartz Technology
+-36 mm Case Diameter
+-Mineral Glass Feature
+-3 ATM Waterproof
+-Case Thickness: 9 mm
+-2 years warranty
+Body: TRENDYOLMILLA
+-92% Polyester 8% Elastane
+-Knitted Fabric
+Pants: MOZ-Palazzo pants
+-Buttoned-Pocketless
+-Camel colored
+Sneakers: U.S. Polo Assn.
+-Heel Type : Flat
+-Base : Pylon
+-Inner Material: Textile
+-Outer Material: Textile + Artificial Leather
+Sunglasses: LUPIX
+-2 years Guaranteed
+-It is standard
+-13+
+Bag: Bershka
+-Nylon look bag
+-75% aluminum - 25% polyester
+-NO BLEACHING - CANNOT BE DRY CLEANED - CANNOT BE WASHED
+-Use wet wipes to clean">
 <meta property="product:retailer_item_id" content="PRO30312440">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="EWP">
@@ -1793,7 +846,7 @@ Sleeve Length: Zero Sleeve
 <%-- Pro$65  --%>
 
 <meta property="og:title" content="EWP Bench Dining Table Set - Atlantic Pine" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home & Garden" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO282366093-852884871.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO282366093-9578102502.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO282366093-6841840814.jpg" />
@@ -1802,21 +855,24 @@ Sleeve Length: Zero Sleeve
 <meta property="og:price:amount" content="127.88">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Material/Material: ChipboardSize: 72x66x125 cmProduct Type: RectangleFunction: FixedHeight: 72cmDepth: 66 cmWidth: 125cmAssembly Type: Disassembled• Table size (WxDxH): 70 cm x 70 cm x 74 cm• Bench size (WxDxH): 103 cm x 33 cm x 42 cm• Average carrying capacity of benches: 180 kg• Color: Atlantic pineYou can choose Just Home Ebru dining table with bench in your kitchen for nice breakfasts to start a wonderful day, pleasant dinners with your loved ones, and pleasant conversations while drinking coffee.With its stylish and modern design, it gives your kitchen a pleasant look and provides you with a spacious area.Material• Body and feet: Chipboard• Supported by first class fittings.• 0.80 mm PVC tape is used.Setup• The product is sent disassembled.• Installation diagram, all screws and accessories are sent with the product.• All parts have numbers compatible with the installation diagram for fast and error-free installation.
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="Material/Material: Chipboard
+Size: 72x66x125 cm
+Product Type: Rectangle
+Function: Fixed
+Height: 72cm
+Depth: 66 cm
+Width: 125cm
+Assembly Type: Disassembled
+• Table size (WxDxH): 70 cm x 70 cm x 74 cm
+• Bench size (WxDxH): 103 cm x 33 cm x 42 cm
+• Average carrying capacity of benches: 180 kg
+• Color: Atlantic pineYou can choose Just Home Ebru dining table with bench in your kitchen for nice breakfasts to start a wonderful day, pleasant dinners with your loved ones, and pleasant conversations while drinking coffee.With its stylish and modern design, it gives your kitchen a pleasant look and provides you with a spacious area.Material
+• Body and feet: Chipboard
+• Supported by first class fittings.
+• 0.80 mm PVC tape is used.Setup
+• The product is sent disassembled.
+• Installation diagram, all screws and accessories are sent with the product.
+• All parts have numbers compatible with the installation diagram for fast and error-free installation.">
 <meta property="product:retailer_item_id" content="PRO282366093">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="EWP">
@@ -1825,7 +881,7 @@ Sleeve Length: Zero Sleeve
 <%-- Pro$66  --%>
 
 <meta property="og:title" content="Wicker Basket With Wicker Round Lid" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home & Garden" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO716146701-287996241.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO716146701-114493120.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO716146701-600698101.jpg" />
@@ -1833,21 +889,13 @@ Sleeve Length: Zero Sleeve
 <meta property="og:price:amount" content="91.40">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														With the WICKER Series, you can use the multi-purpose storage area in different corners of the house according to your needs, while bringing the naturalness of the wicker into your living space. WICKER Wicker Baskets, which you can choose as a flowerpot or magazine holder in your living rooms, organizer in your bedrooms, towel holder in your bathrooms, bread and crisper in your kitchens, and toy organizer in children's rooms, provide both a very functional and a very aesthetic solution to all your storage needs. Thanks to its handles, it can be easily carried with its contents when desired.USAGE IDEAS: Organizer, Towel Holder, Fruit and Crisper, Toy Basket, Picnic Basket, Blanket and Throw Pillow Basket, Newspaper Holder and Magazine Holder, Flower PotPRODUCT SIZE: Small WxDxH: 30x30x25 cm Medium WxDxH: 35x35x29 cm Large WxDxH: 41x41x35 cmMATERIAL: Straw
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="With the WICKER Series, you can use the multi-purpose storage area in different corners of the house according to your needs, while bringing the naturalness of the wicker into your living space. WICKER Wicker Baskets, which you can choose as a flowerpot or magazine holder in your living rooms, organizer in your bedrooms, towel holder in your bathrooms, bread and crisper in your kitchens, and toy organizer in children's rooms, provide both a very functional and a very aesthetic solution to all your storage needs. Thanks to its handles, it can be easily carried with its contents when desired.
+USAGE IDEAS: Organizer, Towel Holder, Fruit and Crisper, Toy Basket, Picnic Basket, Blanket and Throw Pillow Basket, Newspaper Holder and Magazine Holder, Flower Pot
+PRODUCT SIZE:
+Small WxDxH: 30x30x25 cm
+Medium WxDxH: 35x35x29 cm
+Large WxDxH: 41x41x35 cm
+MATERIAL: Straw">
 <meta property="product:retailer_item_id" content="PRO716146701">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Wicker ">
@@ -1856,28 +904,14 @@ Sleeve Length: Zero Sleeve
 <%-- Pro$67  --%>
 
 <meta property="og:title" content="Anais & Margaux Ninette Black and White Zebra Patterned Bikini Set" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO51844743-780341262.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO51844743-645140022.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO51844743-608168965.png" />
 <meta property="og:price:amount" content="118.46">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														80% Polyamide, 20% ElastaneZebra print bikini set
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="80% Polyamide, 20% ElastaneZebra print bikini set">
 <meta property="product:retailer_item_id" content="PRO51844743">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Anais & Margaux">
@@ -1886,27 +920,19 @@ Sleeve Length: Zero Sleeve
 <%-- Pro$68  --%>
 
 <meta property="og:title" content="Ozdilek Reeds Family Set No2" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO48202888-249601092.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO48202888-900623701.png" />
 <meta property="og:price:amount" content="107.56">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Bathrobe: 143x116 cm (1 Piece),Bathrobe: 131x107 cm (1 Piece),Bath Towel: 90x150 cm (2 Pieces)Hand Towel: 50x90 cm (2 Pieces),Size:M/L,Size:Double,Weight: 3.848 Gr/Piece,Outer Fabric: 100% Cotton
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="Bathrobe: 143x116 cm (1 Piece),
+Bathrobe: 131x107 cm (1 Piece),
+Bath Towel: 90x150 cm (2 Pieces),
+Hand Towel: 50x90 cm (2 Pieces),
+Size:M/L,Size:Double,
+Weight: 3.848 Gr/Piece,
+Outer Fabric: 100% Cotton">
 <meta property="product:retailer_item_id" content="PRO48202888">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Ozdilek ">
@@ -1915,27 +941,13 @@ Sleeve Length: Zero Sleeve
 <%-- Pro$69  --%>
 
 <meta property="og:title" content="Vivense Maranta Metal Shelf Made of Full Iron Special Paint" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Office" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO551059214-409834127resim_2022-01-06_174505.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO551059214-288881553resim_2022-01-06_174513.png" />
 <meta property="og:price:amount" content="124.52">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Information footpaths are made of full iron, shelves are made of 2mm dkp sheet metal, special paint is used for a more elegant appearance. They are painted with electro powder oven paint.
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="Information footpaths are made of full iron, shelves are made of 2mm dkp sheet metal, special paint is used for a more elegant appearance. They are painted with electro powder oven paint.">
 <meta property="product:retailer_item_id" content="PRO551059214">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Vivense">
@@ -1944,70 +956,17 @@ Sleeve Length: Zero Sleeve
 <%-- Pro$70  --%>
 
 <meta property="og:title" content="Dark Seer White Smoked Men's Sneaker" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO548884758-42167245641.jpg" />
 <meta property="og:price:amount" content="70">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-
-
-
-
-
-
-
-
-Outsole: 100% Original, Non-Slip, Soft and Orthopedic EVA Sole
-
-
-
+<meta property="og:description" content="Outsole: 100% Original, Non-Slip, Soft and Orthopedic EVA Sole
 Outer Material: 1st Class Skin Material
-
-
-
 Insole: Memory Form Orthopedic Insole
-
-
-
 Inner Lining: Smell and Sweatproof Cotton Textile Material
-
-
-
 Heel Length: 4 cm
-
-
-
-Pattern: Full Sports Pattern
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
+Pattern: Full Sports Pattern">
 <meta property="product:retailer_item_id" content="PRO548884758">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Dark Seer">
@@ -2016,172 +975,34 @@ Pattern: Full Sports Pattern
 <%-- Pro$71  --%>
 
 <meta property="og:title" content="Trendyolman Black Men Regular Short Fit Shorts & Bermuda" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO389286083-23178598237.jpg" />
 <meta property="og:price:amount" content="30">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-
-
-
-
-
-
-
-
-50% Cotton
-
-
-
+<meta property="og:description" content="50% Cotton
 50% Polyester
-
-
-
 Regular Fit
-
-
-
 It is a comfortable cut that does not hug the body.
-
-
-
-There is a little more slack in mold than slim fit.
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
+There is a little more slack in mold than slim fit.">
 <meta property="product:retailer_item_id" content="PRO389286083">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Trendyolman">
 
 
-<%-- Pro$72  --%>
-
-<meta property="og:title" content="Mollia Checkered Muslin Blanket" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO23361555-212453805.webp" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO23361555-656359406.webp" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO23361555-65398582.webp" />
-<meta property="og:price:amount" content="16.30">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Product Group: Baby Blanket
-
-Size: 100x120
-
-Fabric: 100% Cotton
-
-Gender: Unisex
-
-Pattern: Printed
-
-It can be used with many functions such as swaddle, blanket, stroller cover, nursing cover, shoulder cloth, changing.
-
-It is recommended to wash at 30 degrees.
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO23361555">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Molly">
-
-
 <%-- Pro$73  --%>
 
 <meta property="og:title" content="Grimelange Project Knit Oversize White T-shirt" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO140311285-33186686042.jpg" />
 <meta property="og:price:amount" content="33">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-
-
-
-
-
-
-
-
-%100 Cotton
-
-
-
+<meta property="og:description" content="%100 Cotton
 Oversize
-
-
-
 Bicycle Collar
-
-
-
 Short sleeved
-
-
-
-Front Printed T-shirt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
+Front Printed T-shirt">
 <meta property="product:retailer_item_id" content="PRO140311285">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Grimelange">
@@ -2190,27 +1011,21 @@ Front Printed T-shirt
 <%-- Pro$74  --%>
 
 <meta property="og:title" content="Smile - Dalian Stripe Men's Bermuda Shorts - Blue" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO855044655-614682095image_2022-05-27_234008462.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO855044655-372698662image_2022-05-27_234015241.png" />
 <meta property="og:price:amount" content="140.00">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Bermuda shorts, which are indispensable for stylish sportswear, offer a comfortable and sweat-proof wear with its special thin striped textured breathable fabric in this model. It has a small coin pocket detail on the front and two buttoned pockets on the back. A timeless bermuda shorts that you can use with pleasure in all your sports combinations throughout the summer with its sports pattern and ideal knee length.65% Cotton 35% PolyesterSide pocket modelBack flap pocketsModel measurements: Height: 188 cm, Chest: 104 cm, Waist: 88 cmProduct size in the image: 48
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="Bermuda shorts, which are indispensable for stylish sportswear, offer a comfortable and sweat-proof wear with its special thin striped textured breathable fabric in this model. It has a small coin pocket detail on the front and two buttoned pockets on the back. A timeless bermuda shorts that you can use with pleasure in all your sports combinations throughout the summer with its sports pattern and ideal knee length.
+65% Cotton 35% Polyester
+Side pocket model
+Back flap pockets
+Model measurements:
+Height: 188 cm,
+Chest: 104 cm,
+Waist: 88 cm
+Product size in the image: 48">
 <meta property="product:retailer_item_id" content="PRO855044655">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Smile ">
@@ -2219,94 +1034,21 @@ Front Printed T-shirt
 <%-- Pro$75  --%>
 
 <meta property="og:title" content="Aqua Di Polo 1987 Metal Silver Men's Watch" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO297490134-52572671838.jpg" />
 <meta property="og:price:amount" content="25">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-
-
-
-
-
-
-
-
-Display Type: Quartz
-
-
-
+<meta property="og:description" content="Display Type: Quartz
 Dial Color: Black
-
-
-
 Dial Shape: Round
-
-
-
 Case Color: Silver
-
-
-
 Band Color: Silver
-
-
-
 Band Type: Metal
-
-
-
 Glass: Mineral
-
-
-
 Diameter: 45 mm
-
-
-
 Case Type: Metal
-
-
-
-Water Resistance: Hand Wash
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
+Water Resistance: Hand Wash">
 <meta property="product:retailer_item_id" content="PRO297490134">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Aqua Di Polo 1987">
@@ -2315,88 +1057,20 @@ Water Resistance: Hand Wash
 <%-- Pro$76  --%>
 
 <meta property="og:title" content="Aqua Di Polo 1987 Unisex Sunglasses" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO608976596-55924426439.jpg" />
 <meta property="og:price:amount" content="30">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-
-
-
-
-
-
-
-
-Glass Color: Black
-
-
-
+<meta property="og:description" content="Glass Color: Black
 Glass Design: Drop
-
-
-
 Glass Type: Standard
-
-
-
 Frame Color: Black
-
-
-
 Frame Type: Metal
-
-
-
 Glasses Dimensions
-
-
-
 Glass: 55mm
-
-
-
 Bridge: 15mm
-
-
-
-Handle: 100mm
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
+Handle: 100mm">
 <meta property="product:retailer_item_id" content="PRO608976596">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Aqua Di Polo 1987">
@@ -2405,52 +1079,14 @@ Handle: 100mm
 <%-- Pro$77  --%>
 
 <meta property="og:title" content="Baykus 70 cm Long Bar Rectangle Steel Necklace" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Men Accessories" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO574787639-38213106440.jpg" />
 <meta property="og:price:amount" content="10">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-
-
-
-
-
-
-
-
-Closure Type: Snap-on
-
-
-
+<meta property="og:description" content="Closure Type: Snap-on
 Color: Silver
-
-
-
-Material: Stainless Steel
-
- 
-
-
-
-
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
+Material: Stainless Steel">
 <meta property="product:retailer_item_id" content="PRO574787639">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Baykus">
@@ -2459,7 +1095,7 @@ Material: Stainless Steel
 <%-- Pro$78  --%>
 
 <meta property="og:title" content="EWP Daily Sport Elegance of Black and White Men Outfit Set" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Set" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO446239720-587634402K8.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO446239720-40781738442.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO446239720-40571275237.jpg" />
@@ -2470,21 +1106,51 @@ Material: Stainless Steel
 <meta property="og:price:amount" content="190.00">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Shorts: Trendyolman50% Cotton50% PolyesterRegular FitIt is a comfortable cut that does not hug the body.There is a little more slack in mold than slim fit.T-shirt: Grimelange%100 CottonOversizeBicycle CollarShort sleevedFront Printed T-shirtShoes: Dark SeerOutsole: 100% Original, Non-Slip, Soft and Orthopedic EVA SoleOuter Material: 1st Class Skin MaterialInsole: Memory Form Orthopedic InsoleInner Lining: Smell and Sweatproof Cotton Textile MaterialHeel Length: 4 cmPattern: Full Sports PatternNecklace: BaykusClosure Type: Snap-onColor: SilverMaterial: Stainless SteelSunglasses: Aqua Di Polo 1987Glass Color: BlackGlass Design: DropGlass Type: StandardFrame Color: BlackFrame Type: MetalGlasses DimensionsGlass: 55mmBridge: 15mmHandle: 100mmWatch: Aqua Di Polo 1987Display Type: QuartzDial Color: BlackDial Shape: RoundCase Color: SilverBand Color: SilverBand Type: MetalGlass: MineralDiameter: 45 mmCase Type: MetalWater Resistance: Hand Wash
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="Shorts: Trendyolman
+50% Cotton
+50% Polyester
+Regular Fit
+It is a comfortable cut that does not hug the body.
+There is a little more slack in mold than slim fit.
+T-shirt: Grimelange
+%100 Cotton
+Oversize
+Bicycle Collar
+Short sleeved
+Front Printed T-shirt
+Shoes: Dark Seer
+Outsole: 100% Original,
+Non-Slip,
+Soft and Orthopedic EVA Sole
+Outer Material: 1st Class Skin Material
+Insole: Memory Form Orthopedic Insole
+Inner Lining: Smell and Sweatproof Cotton Textile Material
+Heel Length: 4 cm
+Pattern: Full Sports Pattern
+Necklace: Baykus
+Closure Type: Snap-on
+Color: Silver
+Material: Stainless Steel
+Sunglasses: Aqua Di Polo 1987Glass
+Color: BlackGlass
+Design: DropGlass
+Type: StandardFrame
+Color: BlackFrame
+Type: MetalGlasses
+Dimensions
+Glass: 55mm
+Bridge: 15mm
+Handle: 100mm
+Watch: Aqua Di Polo 1987
+Display Type: Quartz
+Dial Color: Black
+Dial Shape: Round
+Case Color: Silver
+Band Color: Silver
+Band Type: MetalGlass: Mineral
+Diameter: 45 mm
+Case Type: Metal
+Water Resistance: Hand Wash">
 <meta property="product:retailer_item_id" content="PRO446239720">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="EWP">
@@ -2493,26 +1159,18 @@ Material: Stainless Steel
 <%-- Pro$79  --%>
 
 <meta property="og:title" content="BCRTA01 3.6V Led Light Cordless Screwdriver" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Instruments" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO408324475-6249188411.jpg" />
 <meta property="og:price:amount" content="63.01">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														led lightPower : 3.6VBattery Type : Li-IonMaximum Torque: 5.5 nmNo Load Speed: 180 rpmBattery Capacity: 1.5 Ah.Weight : 0.4 kgIncludes 5 bits and 1 allen key.
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="led lightPower : 3.6V
+Battery Type : Li-Ion
+Maximum Torque: 5.5 nm
+No Load Speed: 180 rpm
+Battery Capacity: 1.5 Ah.
+Weight : 0.4 kg
+Includes 5 bits and 1 allen key.">
 <meta property="product:retailer_item_id" content="PRO408324475">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="BCRTA01">
@@ -2521,51 +1179,17 @@ Material: Stainless Steel
 <%-- Pro$80  --%>
 
 <meta property="og:title" content="Ipekyol Flared Skirt" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO201254066-556775176Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-28%20143525.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO201254066-56321531Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-28%20143551.jpg" />
 <meta property="og:price:amount" content="338">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Creating a romantic silhouette with its pastel color, the skirt draws an ideal look with its flared form. You can complement the high waist skirt with elegant heels.
-
-
-
-
-
+<meta property="og:description" content="Creating a romantic silhouette with its pastel color, the skirt draws an ideal look with its flared form. You can complement the high waist skirt with elegant heels.
 Ankle length
-
-
-
 Normal waist
-
-
-
 Side snap and zipper closure
-
-
-
-Grosgrain belt
-
-
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
+Grosgrain belt">
 <meta property="product:retailer_item_id" content="PRO201254066">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Ipekyol">
@@ -2574,7 +1198,7 @@ Grosgrain belt
 <%-- Pro$81  --%>
 
 <meta property="og:title" content="Hoagard Flore Wall Decoration" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Decorations" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO718310764-628287344.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO718310764-448180278.jpg" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO718310764-105650264.jpg" />
@@ -2583,21 +1207,15 @@ Grosgrain belt
 <meta property="og:price:amount" content="100.96">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Modern & Industrial StyleMatte Black Paint2mm metal material153cm (Width) x 76cm (Length)The MOP-10 product requires installation. Installation diagram and allen key are sent with the product.You can easily hang the product with nails thanks to the hanger apparatus on the back.The product stands 1.5 cm in front of the wall.It is suitable for indoor and outdoor use.
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="Modern & Industrial Style
+Matte Black Paint
+2mm metal material
+153cm (Width) x 76cm (Length)
+The MOP-10 product requires installation.
+Installation diagram and allen key are sent with the product.
+You can easily hang the product with nails thanks to the hanger apparatus on the back.
+The product stands 1.5 cm in front of the wall.
+It is suitable for indoor and outdoor use.">
 <meta property="product:retailer_item_id" content="PRO718310764">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Hoagard ">
@@ -2606,26 +1224,19 @@ Grosgrain belt
 <%-- Pro$82  --%>
 
 <meta property="og:title" content="Korkmaz Mia Duo Blue/Chrome Blender Set" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Kitchen" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO71601548-341455314.png" />
 <meta property="og:price:amount" content="81.36">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														Measuring Cup: 1000 ml850 WattsHeat resistant stainless steel grinder barMeasuring chamber with 1000 ml capacityAnti-slip soleTwo-stage speed adjustmentEase of washingGrinding functionsSeparation feature of body and grinder barMia Duo Blender, with its gradual speed adjustment and heat-resistant stainless steel grinding bar, will be your biggest assistant in shredding and grinding while preparing food in the kitchen.
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="Measuring Cup: 1000 ml
+850 WattsHeat resistant stainless steel grinder bar
+Measuring chamber with 1000 ml capacity
+Anti-slip soleTwo-stage speed adjustment
+Ease of washing
+Grinding functions
+Separation feature of body and grinder bar
+Mia Duo Blender, with its gradual speed adjustment and heat-resistant stainless steel grinding bar, will be your biggest assistant in shredding and grinding while preparing food in the kitchen.">
 <meta property="product:retailer_item_id" content="PRO71601548">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Korkmaz ">
@@ -2634,44 +1245,15 @@ Grosgrain belt
 <%-- Pro$83  --%>
 
 <meta property="og:title" content="EWP Silk Face Scrub Mitt" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Skin Care" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO79233739-972953361yuzkesesi.jpg" />
 <meta property="og:price:amount" content="11.92">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														
-
-EWP Silk Face Scrub Mitt
-
+<meta property="og:description" content="EWP Silk Face Scrub Mitt
 Scrubbing with a Silk Face Scrub Mitt exfoliates your skin and ensures that the dead skin formed on the skin and the oil, dust and dirt accumulated in the pores of the skin are removed from the skin.
-
-
-
 It helps the skin to regenerate by breathing.
-
-
-
-Scrubbing with a Silk Face Scrub Mitt is the most natural way to exfoliate your skin.
-
-
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
+Scrubbing with a Silk Face Scrub Mitt is the most natural way to exfoliate your skin.">
 <meta property="product:retailer_item_id" content="PRO79233739">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="EWP">
@@ -2680,27 +1262,16 @@ Scrubbing with a Silk Face Scrub Mitt is the most natural way to exfoliate your 
 <%-- Pro$84  --%>
 
 <meta property="og:title" content="Korkmaz Victoria Collection 24 Pieces Round Dinner Set	" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Tableware" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO52559733-419740494.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO52559733-698906750.png" />
 <meta property="og:price:amount" content="125.06">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														6 Serving Plates (27 cm)6 Dinner Plates (23 cm)6 Dessert Plates (21 cm)6 Soup Bowls (12 cm)
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="6 Serving Plates (27 cm)
+6 Dinner Plates (23 cm)
+6 Dessert Plates (21 cm)
+6 Soup Bowls (12 cm)">
 <meta property="product:retailer_item_id" content="PRO52559733">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Korkmaz ">
@@ -2709,7 +1280,7 @@ Scrubbing with a Silk Face Scrub Mitt is the most natural way to exfoliate your 
 <%-- Pro$85  --%>
 
 <meta property="og:title" content="Korkmaz Mona Collection 60 Pcs Square Dinnerware Set	" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Tableware" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO89830332-100957129.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO89830332-91207778.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO89830332-11647291.png" />
@@ -2717,21 +1288,17 @@ Scrubbing with a Silk Face Scrub Mitt is the most natural way to exfoliate your 
 <meta property="og:price:amount" content="307.62">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														60 Pieces - 12 Person Dinnerware12 Serving Plates12 Dinner Plates12 Dessert Plates12 Soup Bowls1 30 cm Platter1 25 cm Platter2 22 cm Platters1+1 Soup Bowl + Lid2+2 Salt and Pepper Shakers2 Toothpicks
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="60 Pieces - 12 Person Dinnerware
+12 Serving Plates
+12 Dinner Plates
+12 Dessert Plates
+12 Soup Bowls
+1 30 cm Platter
+1 25 cm Platter
+2 22 cm Platters
+1+1 Soup Bowl + Lid
+2+2 Salt and Pepper Shakers
+2 Toothpicks">
 <meta property="product:retailer_item_id" content="PRO89830332">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Korkmaz ">
@@ -2740,50 +1307,15 @@ Scrubbing with a Silk Face Scrub Mitt is the most natural way to exfoliate your 
 <%-- Pro$86  --%>
 
 <meta property="og:title" content="Trendyolmilla Fuchsia Strap Dress" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Women Outfit" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO276792471-35517367416.jpg" />
 <meta property="og:price:amount" content="38">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-
-
-
-
-
-
-85% Polyester
-
-
-
+<meta property="og:description" content="85% Polyester
 15% Elastane
-
-
-
 Woven fabrics
-
-
-
-Length from shoulder: 88 cm
-
- 
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
+Length from shoulder: 88 cm">
 <meta property="product:retailer_item_id" content="PRO276792471">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Trendyolmilla">
@@ -2792,82 +1324,24 @@ Length from shoulder: 88 cm
 <%-- Pro$87  --%>
 
 <meta property="og:title" content="FAKIR Airwell White Ultrasonic Air Humidifier" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
+<meta property="og:type" content="Home Gadgets" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO17298900-903567512.png" />
 <meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO17298900-934012908.png" />
 <meta property="og:price:amount" content="163.85">
 <meta property="og:price:currency" content="GBP">
 <meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-														* 30W* Humidifying and refreshing the air by producing cold steam* 4 L water capacity* 3-stage steam setting* Max. 300ml/h cold steam production* LED display* Time setting (12 hours)* Automatic shut-off when water is low* Blue led night light* Remote control* Quiet operation* Bottom or top filling option* Adjustable steam direction* Top filling feature during operation
-
-													
-
-												
-
-													
-
-												">
+<meta property="og:description" content="* 30W
+* Humidifying and refreshing the air by producing cold steam
+* 4 L water capacity
+* 3-stage steam setting
+* Max. 300ml/h cold steam production
+* LED display* Time setting (12 hours)
+* Automatic shut-off when water is low* Blue led night light
+* Remote control
+* Quiet operation
+* Bottom or top filling option
+* Adjustable steam direction
+* Top filling feature during operation">
 <meta property="product:retailer_item_id" content="PRO17298900">
 <meta property="product:condition" content="new">
 <meta property="product:brand" content="Fakir">
-
-
-<%-- Pro$87  --%>
-
-<meta property="og:title" content="Happiness İstanbul Women Orange Draped Knitted Mini Skirt" />
-<meta property="og:type" content="xxxxxxxxxxxxxx" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO233984541-194213326Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-28%20150945.jpg" />
-<meta property="og:url" content="https://eworldpartner.uk/uploads/products/PRO233984541-965281218Ekran%20g%c3%b6r%c3%bcnt%c3%bcs%c3%bc%202022-06-28%20151026.jpg" />
-<meta property="og:price:amount" content="40">
-<meta property="og:price:currency" content="GBP">
-<meta property="og:availability" content="in stock">
-<meta property="og:description" content="
-
-													
-
-													
-
-
-
-
-
-
-
-60% Polyester 40% Viscose
-
-
-
-Mini Knitted Skirt with Draped, Concealed Side Zip, Non-Sealing.
-
-
-
-In Studio Shooting, Colors May Vary Due to Differences in Light.
-
-
-
-Height: 1.76 cm, Bust: 82 cm Waist: 60 cm Hips: 90 cm
-
-
-
-
-
-
-
-													
-
-												
-
-													
-
-												">
-<meta property="product:retailer_item_id" content="PRO233984541">
-<meta property="product:condition" content="new">
-<meta property="product:brand" content="Happiness İstanbul">
-
-

@@ -50,10 +50,5 @@ for lin in links:
     count += 1
     extract_from_link(lin, file)
     print(str(count)+" from "+str(len(links)))
-extract_from_link(links[1], file)
-file.close()
 
-# data = requests.get(links[1]).content
-# source_code = html.fromstring(data)
-# file = open("meta_props.txt", "w+", encoding="utf-8")
-# file.write(source_code.xpath('//*[@id="collapse1-1"]/div/div[1]')[0].text_content().replace("\t", ""))
+file.close()
